@@ -1,5 +1,5 @@
 **GEN_AI_LAB_ASSIGNS**
-**Huzaifa Taher Ghadiyali**
-**TYB3 CSE(AI)**
-**22311872**
-**382064**
+**Name: Huzaifa Taher Ghadiyali**
+**TYB3 – CSE(AI)**
+**Roll No: 22311872** 
+**PRN: 382064**
